@@ -67,3 +67,8 @@ b. Problem solved: Miss typed my username, what I did was I changed my bandwidth
 7. If your Ledstrip is connected you'll be able too see the difference in color.
 
 Congrats you just made your own Philips (Signify) HUE, for a couple euro. Adafruit also works on your phone, so you can almost do anything from the video from lesson 1.
+
+Final result
+
+https://user-images.githubusercontent.com/70894669/194171930-548110f9-0d18-4221-bf09-6cb9e80a84e7.MOV
+
